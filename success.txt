@@ -1,0 +1,52 @@
+<html>
+<head><title> SUCCESSFUL LOG IN </title></head>
+<body background="compofff.png">
+<style>
+body {
+background-image: url('compofff.png');
+background-size: cover;
+background-attachment: fixed;
+}
+</style>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h2 style="color:white; text-align:center;"> LOG IN REQUIRED </h2> 
+<br>
+<br>
+<table align="center" border="0">                
+<tr>
+<td>
+<h3> Click on the check to continue </h3>
+</td>
+</tr>
+<tr>
+<td>
+<a href="1stQtrPortfolio_Discipulo.html"><img src="correct.png"></a>
+</td>
+</tr>
+</table>	
+</body>
+</html>
