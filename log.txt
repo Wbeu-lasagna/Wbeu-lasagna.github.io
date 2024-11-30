@@ -1,0 +1,35 @@
+<html>
+<head><title>LOGIN_USER.EXE</title>
+<style>
+
+body {
+background-image: url(compofff.png);
+background-size: cover;
+background-attachment: fixed;
+}
+
+#help {
+position: absolute;
+bottom: 45%;
+left: 44%;
+}
+
+#k {
+position: absolute;
+bottom: 10%;
+left: 44%;
+}
+
+</style>
+</head>
+<body background="compofff.png">
+<h2 id="help" style="color:white; text-align:center;"> LOG IN REQUIRED </h2> 
+<form id="k" action="success.html">
+  <label for="uname"><h3 style="color:white;">Username:</h3></label>
+  <input type="text" id="uname" name="uname" size="30"><br>
+  <label for="pwd"><h3 style="color:white;">Password:</h3></label>
+  <input type="password" id="pwd" name="pwd" minlength="4" size="30"><br><br>
+  <input type="submit" value="Log in">
+</form>
+</body>
+</html> 

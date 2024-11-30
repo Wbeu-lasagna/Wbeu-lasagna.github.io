@@ -1,0 +1,67 @@
+<html>
+<head><title>Activities</title></head>
+<body background="balloon.png">
+<style>
+body {
+background-image: url('balloon.png');
+background-size: cover;
+background-attachment: fixed;
+}
+</style>
+<table width="50%" align="left" border="1"bgcolor="#387ceb">
+	<tr>
+		<th>IMAGES/VIDEOS</th>
+		<th>ACTVITIES</th>
+		<th>DESCRIPTION</th>
+	</tr>
+	<tr align="center">
+		<td><img width="30%" height="30%" src="Science.jpg" alt="Picture of Sci skit"></td>
+		<td>SCIENCE RESPIRATORY SYSTEM PRESENTATION</td>
+		<td>We had a performance task in which we had to make a skit about the respiratory system.</td>
+	</tr>
+	<tr align="center">
+		<td><img width="30%" height="30%" src="buwanngwika.jpg" alt="Picture of class"></td>
+		<td>BUWAN NG WIKA</td>
+		<td>This picture was taken during the last day of Buwan ng Wika</td>
+	</tr>
+	<tr align="center">
+		<td><img width="30%" height="30%" src="AP.jpg" alt="Picture of AP"></td>
+		<td>DEBATE</td>
+		<td>We were the audience for a debate.</td>
+	</tr>
+	<tr align="center">
+		<td><img width="30%" height="30%" src="vball.jpg" alt="Picture of class in the covered court"></td>
+		<td>VOLLEYBALL</td>
+		<td>We took this picture after we played Volleyball in the covered court for MAPEH.</td>
+	</tr>
+	<tr align="center">
+		<td><img width="30%" height="30%" src="ESP.jpg" alt="Picture of ESP skit"></td>
+		<td>ESP SKIT</td>
+		<td>We had a performance task in which we had to make a skit about our barangays.</td>
+	</tr>
+	<tr align="center">
+		<td><img width="40%" height="40%" src="esp2.jpg" alt="Picture of ESP group"></td>
+		<td>ESP POSTER</td>
+		<td>We had a performance task in which we had to make a LGU for the current problems in our society.</td>
+	</tr>
+	<tr align="center">
+		<td>
+	<video width="30%" height="5%" controls>
+	<source src="Speech.mp4" type="video/mp4">
+	</video>
+		</td>
+		<td>INAUGURAL SPEECH</td>
+		<td>We had to create an inaugural speech and present it in class for our English subject.</td>
+	</tr>
+
+</table>
+<table align="right">
+	<tr>
+		<td><h2>Click on the floating barrell to get back</h2></td>
+	</tr>
+	<tr>
+		<td><a href="1stQtrPortfolio_Discipulo.html"><img  src="barrel.png" alt="paper"></a></td>
+	</tr>
+</table>
+</body>
+</html>

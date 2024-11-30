@@ -1,0 +1,78 @@
+<html>
+<head><title> MYSELF </title></head>
+<body background="ballpit.png">
+<style>
+body {
+background-image: url('ballpit.png');
+background-size: cover;
+background-attachment: fixed;
+}
+</style>
+<table border="1" align="center" bgcolor="#387ceb">
+<tr>
+<th> IMAGES </th>
+<th> MY INTERESTS </th>
+<th> THINGS ABOUT ME </th>
+</tr>
+<tr align="center">
+<td rowspan="2"> <img src="Spoils of War.jpg" alt="very handsome picture of me" width="15%" height="15%"> <img src="STURGEON.jpg" alt="picture of me in a surgeon's outfit" width="15%" height="15%"></td>
+<td>
+	<ul type="circle">
+	<li> Playing Video Games</li>
+	<li> Singing </li>
+	<li> Playing Instruments </li>
+	<li> Hanging Out With Friends </li>
+</td>
+<td>
+	<ul type="circle">
+	<li> My nickname is Eli </li>
+	<li> I like the color red </li>
+	<li> I am the eldest of 3 </li>
+        <li> My dream job is  to become a surgeon </li>
+</td>
+</tr>
+</table>
+<table border="1" align="center" bgcolor="#387ceb">
+<tr>
+<th>IMAGES</th>
+<th>MY CLOSE FRIENDS</th>
+<th> THE BOYS </th>
+</tr>
+<tr align="center">
+<td>
+<img src="Sword.jpg" alt="Heiden vs Ant" width="15%" height="15%"> <img src="meetup.jpg" alt="friends part 1" width="15%" height="15%"><img src="meetup2.jpg" alt="friends part 2" width="15%" height="15%">
+ </td>
+<td>
+	<ul type="circle">
+	<li> Anthony </li>
+	<li> Ian </li> 
+	<li> Sofie </li>
+	<li> Mark </li>
+	<li> Eon </li>
+	<li> Luke </li>
+	<li> Zatee </li>
+	<li> Drift </li>
+	<li> Janna </li>
+	<li> Nicole </li>
+	<li> Sean Ajay </li>
+	<li> Heiden </li>
+</td>
+<td>
+	<ul type="circle">
+	<li> Christian </li>
+	<li> Inigo </li>
+	<li> Izzo </li>
+	<li> Thirdy </li>
+	<li> Matthias </li>
+	<li> Kurt </li>
+</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<p> <h3 style="text-align:center;">Click on the ballpit to get back </h3></p>
+<br>
+<p style="text-align:center;"><a href="1stQtrPortfolio_Discipulo.html"><img src="ballback.png"></a></p>
+</body>
+</html>
