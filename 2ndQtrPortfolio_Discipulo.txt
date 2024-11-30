@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head><title>Main Page</title>
+<style type="text/css">
+body {
+background-repeat: no-repeat;
+background-size: 100% auto;
+background-attachement:fixed;
+}
+
+#patty {
+position: absolute;
+bottom: 25%;
+right: 20%;
+}
+
+#kelp {
+position: absolute;
+bottom: 27%;
+left: 23%;
+}
+
+#plankton {
+position: absolute;
+bottom: 20%;
+left: 50%;
+}
+
+#wel {
+font-size:45px;
+position: absolute;
+bottom: 38%;
+left: 25%;
+color:lightblue;
+font-weight:bold;
+}
+
+#kr {
+font-size:45px;
+position: absolute;
+bottom: 36%;
+right: 25%;
+color:lightblue;
+font-weight:bold;
+}
+
+#click {
+position: absolute;
+bottom: 90%;
+left: 1%;
+}
+
+</style>
+</head>
+<body background="krusty.png">
+<a href="activity.html">
+<img  id="patty" src="patty.png" alt="krabby patty" height="100px" width="100px">
+</a>
+<a href="outputs.html">
+<img  id="kelp" src="kelp.png" alt="kelp juice" height="100px" width="100px">
+</a>
+<a href="Reflection2.html">
+<img  id="plankton" src="plankton.png" alt="plankton" height="200px" width="200px">
+</a>
+<pre id="wel"> 
+WELCOME 
+TO
+</pre>
+<pre id="kr">
+THE
+KRUSTY
+KRAB
+</pre>
+<img src="click.png" alt="Click on Plankton or the Food to Continue" id="click">
+</body>
+</html>
