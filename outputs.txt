@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head><title>Outputs</title>
+<style>
+
+body {
+background-repeat: no-repeat;
+background-size:300% 120%;
+background-attachement:fixed;
+}
+
+.explanation{
+background-color:lightblue;
+text-align:center;
+float:right;
+}
+
+.ward{
+position: absolute;
+top: 2200px;
+right: 7%;
+}
+</style>
+</head>
+<body background="squid.png">
+<img src="1&2.jpg" alt="a picture of a website for lesson 1&2">
+<img src="1&2b.jpg" alt="a picture of sample code for lesson 1&2">
+<img src="1&2c.jpg" alt="a picture of sample code for lesson 1&2">
+<div class="explanation">
+<h2> Lesson 1&2 </h2>
+</div>
+<br>
+<hr>
+<img src="3.jpg" alt="a picture of a website for lesson 3">
+<img src="3b.jpg" alt="a picture of sample code for lesson 3">
+<div class="explanation">
+<h2> Lesson 3 </h2>
+</div>
+<br>
+<hr>
+<img src="4.jpg" alt="a picture of a website for lesson 4">
+<img src="4b.jpg" alt="a picture of sample code for lesson 4">
+<div class="explanation">
+<h2> Lesson 4 </h2>
+</div>
+<br>
+<hr>
+<img src="5.jpg" alt="a picture of a website for lesson 5">
+<img src="5b.jpg" alt="a picture of sample code for lesson 5">
+<div class="explanation">
+<h2> Lesson 5 </h2>
+</div>
+<br>
+<hr>
+<img src="6.jpg" alt="a picture of a website for lesson 6">
+<img src="6b.jpg" alt="a picture of sample code for lesson 6">
+<div class="explanation">
+<h2> Lesson 6 </h2>
+</div>
+<br>
+<hr>
+<img src="7.png" alt="a picture of a website for lesson 7" width="40%' height="40%">
+<img src="7b.png" alt="a picture of sample code for lesson 7" width="40%' height="40%">
+<div class="explanation">
+<h2> Lesson 7 </h2>
+</div>
+<hr>
+<a href="2ndQtrPortfolio_Discipulo.html"><img src="ward.png" class="ward"></a>
+<p style="text-align:right; color:lightblue; font-weight:bold; font-size:30px;"> Click on me to get back </p>
+</body>
+</html>
+</html>

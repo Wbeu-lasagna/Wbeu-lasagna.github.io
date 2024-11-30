@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>Reflection</title>
+<link rel="stylesheet" type="text/css" href="reflections.css">
+<style>
+.tv{
+background-color:lightblue;
+border-style:dotted;
+position: absolute;
+bottom: 8%;
+right:55%;
+}
+</style>
+</head>
+<body background="bucket.jpg">
+<div class="karen">	
+<h2>Reflection</h2>
+<p> This quarter was mainly focused on CSS. CSS is mainly used to style a webpage. It helps make a website look more clean and saves a lot of work. This quarter I learned how to utilize CSS and apply it to my website. Because of CSS I was able to decorate my website in any way I wanted. At first it was kind of hard for me to use CSS because I couldn't get it to work properly, but after a while I was able to solve my problem with some minor changes and fixes in my code. With CSS I was able to put elements in specific places or change the size of texts. I was more satisfied with my portfolio now then the one from the 1st Quarter because CSS made it easier for me to design the webpage how I wanted. This quarter helped me realize how much easier it is to make a website with CSS and how much time I was able to save by utilizing all of its properties. I'm very happy that I was able to learn about CSS and now I am also excited to learn JavaScript. </p>
+</div>
+<a href="2ndQtrPortfolio_Discipulo.html"><img src="karen.png" id="karen" height="300px" width="200px"></a>
+<div class="tv">
+<p style="text-align:center;"> Click on me to get back </p> 
+</div>
+</body>
+</html>
